@@ -1,5 +1,5 @@
 # Class-Base-Define #
----------------------------------------
+
 Class-Base-Define chapter is the training contains the define and usecase of **class, object initialization, and construct function**.
 
 ### Steps to deployment ###
