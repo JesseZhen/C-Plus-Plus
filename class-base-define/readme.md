@@ -1,6 +1,9 @@
 # Class-Base-Define #
 
-Class-Base-Define chapter is the training contains the define and usecase of **class, object initialization, and construct function**.
+Class-Base-Define chapter is the training contains the define and usecase of
+* Class 
+* Object Initialization 
+* Construct Function
 
 ### Steps to deployment ###
 Download all 3 code files in the local machine then use command consonle tools to locate to the file root folder. 
@@ -19,3 +22,5 @@ Download all 3 code files in the local machine then use command consonle tools t
 > Car stop</br>
 > 20000 20000</br>
 > Car stop
+
+
